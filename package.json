@@ -7,6 +7,8 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"keywords": ["Fazli Balkan", "freecodecamp"]
+	,
 	"engines": {
 		"node": "16.13.0"
 	},
